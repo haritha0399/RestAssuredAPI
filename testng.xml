@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/hnavane/IdeaProjects/peoplenet-mobile-automation/RestAssuredAPI/src/test/java/com/automation/apitesting/tests/DeleteAPIRequest.java"><classes><class name="com.automation.apitesting.tests.DeleteAPIRequest"><methods><include name="EndToEndApi"/></methods></class></classes></test></suite>
